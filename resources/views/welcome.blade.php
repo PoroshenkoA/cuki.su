@@ -92,7 +92,7 @@
                     </h2>
                 </div>
 
-                <div :id="item.ID" class="collapse show" :aria-labelledby="'headingOne'+item.ID"
+                <div :id="item.ID" class="collapse" :aria-labelledby="'headingOne'+item.ID"
                      data-parent="#accordionExample">
                     <div class="card-body">
                         <div class="list-group">
